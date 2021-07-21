@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@mempool/mempool.js": "^2.2.2",
+    "@slidev/cli": "^0.22.5",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "2021-07-22-segwit-maleabilidade-ecdsa"
+}
